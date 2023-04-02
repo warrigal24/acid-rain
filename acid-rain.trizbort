@@ -1,0 +1,455 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<trizbort version="1.5.9.3">
+	<info>
+		<title>Acid Rain</title>
+		<author>Garry Francis</author>
+	</info>
+	<map>
+		<room id="11" name="Ledge" subtitle="" x="200" y="80" w="80" h="40" region="Acid Rain" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="BottomRight" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Acid rain|Ledge|Bay window|Silver key</objects>
+		</room>
+		<room id="12" name="Upstairs Bedroom" subtitle="" x="200" y="160" w="80" h="40" region="Normal" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Upstairs bedroom|Bed|Clean sheets|Bay window</objects>
+		</room>
+		<room id="13" name="Scientist's Study" subtitle="" x="320" y="0" w="80" h="40" region="Dark" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Scientist's study|Security card|Magnetic strip|Identity|Loose light switch</objects>
+		</room>
+		<room id="16" name="North End of Dining Hall" subtitle="" x="320" y="80" w="80" h="40" region="Dark" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Northern end of dining hall|Sideboard|Fruit bowl|(Banana)</objects>
+		</room>
+		<room id="17" name="North End of Long Hall" subtitle="" x="440" y="80" w="80" h="40" region="Dark" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Hallway|(Monster that defies description)</objects>
+		</room>
+		<room id="18" name="Private Bar" subtitle="" x="560" y="80" w="80" h="40" region="Dark" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Private bar|Whiskey bottle</objects>
+		</room>
+		<room id="19" name="Secret Room" subtitle="" x="800" y="-160" w="80" h="40" region="Dark" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Secret room|Wall coverings|Secret door|Journal|Laser power module</objects>
+		</room>
+		<room id="20" name="Middle of Dining Hall" subtitle="" x="320" y="160" w="80" h="40" region="Dark" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Middle dining hall|Dining table|Small crystal dish|(Caviar)</objects>
+		</room>
+		<room id="21" name="Middle of Long Hall" subtitle="" x="440" y="160" w="80" h="40" region="Dark" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Hallway</objects>
+		</room>
+		<room id="22" name="Kitchen" subtitle="" x="560" y="160" w="80" h="40" region="Dark" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Kitchen|Cupboard|(Jatz crackers)|Sink|Tap|Water</objects>
+		</room>
+		<room id="23" name="South End of Hallway" subtitle="" x="440" y="240" w="80" h="40" region="Dark" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Hallway|Metal door|Slot in wall|Wooden door</objects>
+		</room>
+		<room id="24" name="Western End of Hallway" subtitle="" x="560" y="240" w="80" h="40" region="Dark" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Western end of hallway|Metal door|Top of stairs</objects>
+		</room>
+		<room id="25" name="Junction of Hallways" subtitle="" x="680" y="240" w="80" h="40" region="Dark" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Junction of hallways|(Hole in floor)</objects>
+		</room>
+		<line id="50">
+			<dock index="0" id="20" port="e" />
+			<dock index="1" id="21" port="w" />
+		</line>
+		<line id="51">
+			<dock index="0" id="17" port="s" />
+			<dock index="1" id="21" port="n" />
+		</line>
+		<line id="52" style="dashed">
+			<dock index="0" id="17" port="e" />
+			<dock index="1" id="18" port="w" />
+		</line>
+		<line id="54">
+			<dock index="0" id="21" port="e" />
+			<dock index="1" id="22" port="w" />
+		</line>
+		<line id="55">
+			<dock index="0" id="21" port="s" />
+			<dock index="1" id="23" port="n" />
+		</line>
+		<line id="57">
+			<dock index="0" id="24" port="e" />
+			<dock index="1" id="25" port="w" />
+		</line>
+		<room id="92" name="Acid Rain (Garry Francis)" subtitle="" x="200" y="-440" w="200" h="40" region="NoRegion" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="None" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw" />
+		</room>
+		<room id="58" name="Inside your Car" subtitle="" x="440" y="-400" w="80" h="40" region="Normal" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" isDark="yes" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Car|Back seat|V8 engine|Acid rain|Dashboard|Knob under dashboard|Steering wheel|Ignition|Car key|Glovebox|(Plastic raincoat)|(Torch)</objects>
+		</room>
+		<room id="59" name="Entrance to Mansion" subtitle="" x="440" y="-240" w="80" h="40" region="Acid Rain" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Acid rain|Front fence|Iron bars|Huge gate|Chain|Mansion</objects>
+		</room>
+		<room id="62" name="Balcony" subtitle="" x="-160" y="0" w="80" h="40" region="Normal" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Acid rain|Balcony|Lawns and gardens|Macaw|Trellis|Tropical vines|Dummy purple fruit|Purple fruit</objects>
+		</room>
+		<room id="63" name="Storeroom" subtitle="" x="-280" y="80" w="80" h="40" region="Dark" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Storeroom|Cleaning equipment|White door|Piezoelectric transducer</objects>
+		</room>
+		<room id="64" name="North End of Wide Hall" subtitle="" x="-160" y="80" w="80" h="40" region="Normal" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Northern end of wide hall|White door</objects>
+		</room>
+		<room id="67" name="Middle of Wide Hall" subtitle="" x="-160" y="160" w="80" h="40" region="Dark" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Middle of wide hall|Sealed door</objects>
+		</room>
+		<room id="68" name="Small Closet" subtitle="" x="-40" y="80" w="80" h="40" region="Dark" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Small closet|Rack|Coats|(Opening)</objects>
+		</room>
+		<room id="70" name="Upstairs Lavatory" subtitle="" x="-280" y="160" w="80" h="40" region="Dark" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Upstairs lavatory|Toilet paper</objects>
+		</room>
+		<room id="72" name="TV Room" subtitle="" x="-40" y="160" w="80" h="40" region="Dark" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Sealed door|Opening|TV room|TV set|Lounge chair|Remote control unit</objects>
+		</room>
+		<room id="73" name="Darkroom" subtitle="" x="80" y="160" w="80" h="40" region="Dark" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Darkroom|Plain door|Bench|Red lamp|Photographic chemicals|Photographic tools|Enlarger|Undeveloped film|(Developed negatives)</objects>
+		</room>
+		<room id="74" name="Linen Closet" subtitle="" x="80" y="320" w="80" h="40" region="Dark" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Linen closet|Louvred door|Satin sheets|(Three-volt LED)</objects>
+		</room>
+		<room id="76" name="Upstairs Bathroom" subtitle="" x="-280" y="240" w="80" h="40" region="Dark" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Upstairs bathroom|Vanity unit|Small basin|Tap|Water|Mirror|Message|(Pink jiffy box)</objects>
+		</room>
+		<room id="77" name="South End of Wide Hall" subtitle="" x="-160" y="240" w="80" h="40" region="Dark" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Southern end of wide hall</objects>
+		</room>
+		<room id="78" name="Lounge Room" subtitle="" x="-40" y="240" w="80" h="40" region="Dark" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Lounge room|Lounge|Coffee table|UV glasses</objects>
+		</room>
+		<room id="79" name="West End of Short Hall" subtitle="" x="80" y="240" w="80" h="40" region="Dark" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Hall|Plain door|Louvred door</objects>
+		</room>
+		<room id="81" name="East End of Short Hall" subtitle="" x="200" y="240" w="80" h="40" region="Dark" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Hall|Goat</objects>
+		</room>
+		<room id="82" name="South Dining Hall" subtitle="" x="320" y="240" w="80" h="40" region="Dark" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">South dining hall</objects>
+		</room>
+		<room id="85" name="Front Porch" subtitle="" x="440" y="-80" w="80" h="40" region="Normal" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Acid rain|Front porch|Mansion|Plant pot|Pot plant|Soil|Stem|Leaves|Large oak door|Doorbell|(Brass key)</objects>
+		</room>
+		<room id="88" name="Entry Foyer" subtitle="" x="440" y="0" w="80" h="40" region="Dark" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Entry foyer|Large oak door|(Neatly-painted sign)</objects>
+		</room>
+		<room id="89" name="Library" subtitle="" x="560" y="0" w="80" h="40" region="Dark" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Library|Bookshelves|Books|Reading table|Book|(Note)</objects>
+		</room>
+		<line id="112" style="dashed">
+			<dock index="0" id="63" port="e" />
+			<dock index="1" id="64" port="w" />
+		</line>
+		<line id="115" style="dashed">
+			<dock index="0" id="11" port="s" />
+			<dock index="1" id="12" port="n" />
+		</line>
+		<line id="116" style="dashed">
+			<dock index="0" id="13" port="e" />
+			<dock index="1" id="88" port="w" />
+		</line>
+		<line id="118">
+			<dock index="0" id="64" port="e" />
+			<dock index="1" id="68" port="w" />
+		</line>
+		<line id="122">
+			<dock index="0" id="16" port="e" />
+			<dock index="1" id="17" port="w" />
+		</line>
+		<line id="130">
+			<dock index="0" id="62" port="s" />
+			<dock index="1" id="64" port="n" />
+		</line>
+		<line id="131">
+			<dock index="0" id="64" port="s" />
+			<dock index="1" id="67" port="n" />
+		</line>
+		<line id="135" style="dashed">
+			<dock index="0" id="68" port="s" />
+			<dock index="1" id="72" port="n" />
+		</line>
+		<line id="148">
+			<dock index="0" id="16" port="s" />
+			<dock index="1" id="20" port="n" />
+		</line>
+		<line id="155" style="dashed">
+			<dock index="0" id="88" port="e" />
+			<dock index="1" id="89" port="w" />
+		</line>
+		<line id="163" style="dashed">
+			<dock index="0" id="85" port="s" />
+			<dock index="1" id="88" port="n" />
+		</line>
+		<line id="166" style="dashed">
+			<dock index="0" id="88" port="s" />
+			<dock index="1" id="17" port="n" />
+		</line>
+		<line id="174" style="dashed">
+			<dock index="0" id="23" port="e" />
+			<dock index="1" id="24" port="w" />
+		</line>
+		<line id="175">
+			<dock index="0" id="82" port="e" />
+			<dock index="1" id="23" port="w" />
+		</line>
+		<line id="181">
+			<dock index="0" id="73" port="s" />
+			<dock index="1" id="79" port="n" />
+		</line>
+		<line id="182" style="dashed">
+			<dock index="0" id="74" port="n" />
+			<dock index="1" id="79" port="s" />
+		</line>
+		<line id="184">
+			<dock index="0" id="20" port="s" />
+			<dock index="1" id="82" port="n" />
+		</line>
+		<line id="185">
+			<dock index="0" id="78" port="e" />
+			<dock index="1" id="79" port="w" />
+		</line>
+		<line id="188">
+			<dock index="0" id="70" port="s" />
+			<dock index="1" id="76" port="n" />
+		</line>
+		<line id="193">
+			<dock index="0" id="76" port="e" />
+			<dock index="1" id="77" port="w" />
+		</line>
+		<line id="194">
+			<dock index="0" id="77" port="e" />
+			<dock index="1" id="78" port="w" />
+		</line>
+		<room id="198" name="Bottom of Stairs" subtitle="" x="440" y="320" w="80" h="40" region="Dark" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Landing at bottom of stairs|Wooden door</objects>
+		</room>
+		<room id="202" name="Laboratory" subtitle="" x="440" y="400" w="80" h="40" region="Dark" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Laboratory|Weird and wonderful paraphernalia|Steel cage|White key|Huge gorilla|(Banana peel)</objects>
+		</room>
+		<room id="203" name="Access Hallway" subtitle="" x="560" y="400" w="80" h="40" region="Dark" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Access hallway|Bottom of stairs</objects>
+		</room>
+		<room id="205" name="Electronic Workshop" subtitle="" x="560" y="480" w="80" h="40" region="Dark" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Electronic workshop|Workbench|Soldering iron|Discarded electronic components|Workshop door|(Printed circuit board)|(Electronic door opener)|(Button on electronic door opener)</objects>
+		</room>
+		<room id="206" name="Tiny Room" subtitle="" x="680" y="480" w="80" h="40" region="Dark" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Tiny room|Workshop door|Tools|(Screwdriver)|(Car battery)</objects>
+		</room>
+		<room id="208" name="Landing at Top of Stairs" subtitle="" x="-160" y="320" w="80" h="40" region="Dark" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Landing at top of stairs</objects>
+		</room>
+		<room id="224" name="Storage Area" subtitle="" x="680" y="400" w="80" h="40" region="Dark" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Storage area|Shelves|Bunnings|Coil of wire</objects>
+		</room>
+		<line id="226">
+			<dock index="0" id="77" port="s" />
+			<dock index="1" id="208" port="n" />
+		</line>
+		<line id="253" style="dashed">
+			<dock index="0" id="23" port="s" />
+			<dock index="1" id="198" port="n" />
+		</line>
+		<line id="276">
+			<dock index="0" id="203" port="s" />
+			<dock index="1" id="205" port="n" />
+		</line>
+		<line id="278">
+			<dock index="0" id="202" port="e" />
+			<dock index="1" id="203" port="w" />
+		</line>
+		<line id="279">
+			<dock index="0" id="203" port="e" />
+			<dock index="1" id="224" port="w" />
+		</line>
+		<line id="281" style="dashed">
+			<dock index="0" id="205" port="e" />
+			<dock index="1" id="206" port="w" />
+		</line>
+		<room id="287" name="Bedroom" subtitle="" x="800" y="-80" w="80" h="40" region="Normal" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Bedroom|Bed|Sheets|Large lump|Bedroom window|Coded message|Keypad|Keypad buttons|(Dead body)|(Secret door)</objects>
+		</room>
+		<room id="288" name="Northern Ledge" subtitle="" x="800" y="0" w="80" h="40" region="Acid Rain" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="BottomRight" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Acid rain|Ledge|Bedroom window</objects>
+		</room>
+		<room id="290" name="Eastern End of Hallway" subtitle="" x="800" y="240" w="80" h="40" region="Dark" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Eastern end of hallway</objects>
+		</room>
+		<room id="291" name="Guest Room" subtitle="" x="800" y="160" w="80" h="40" region="Normal" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Guest room|Bed|Clean sheets|Window</objects>
+		</room>
+		<room id="298" name="Southern Ledge" subtitle="" x="800" y="80" w="80" h="40" region="Acid Rain" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="BottomRight" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Acid rain|Southern ledge|Guest room window|Red key</objects>
+		</room>
+		<room id="301" name="Bathroom" subtitle="" x="800" y="320" w="80" h="40" region="Dark" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Bathroom|Vanity unit|Small basin|Tap|Water|Mirror|(Two D-cell batteries)</objects>
+		</room>
+		<room id="302" name="Broom Closet" subtitle="" x="680" y="320" w="80" h="40" region="Dark" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Broom closet|Long-handled broom</objects>
+		</room>
+		<line id="315" style="dashed">
+			<dock index="0" id="19" port="s" />
+			<dock index="1" id="287" port="n" />
+		</line>
+		<line id="316" style="dashed">
+			<dock index="0" id="287" port="s" />
+			<dock index="1" id="288" port="n" />
+		</line>
+		<line id="319">
+			<dock index="0" id="25" port="e" />
+			<dock index="1" id="290" port="w" />
+		</line>
+		<line id="320">
+			<dock index="0" id="290" port="n" />
+			<dock index="1" id="291" port="s" />
+		</line>
+		<line id="336" startText="JUMP" endText="JUMP">
+			<dock index="0" id="288" port="s" />
+			<dock index="1" id="298" port="n" />
+		</line>
+		<line id="338" style="dashed">
+			<dock index="0" id="298" port="s" />
+			<dock index="1" id="291" port="n" />
+		</line>
+		<line id="339">
+			<dock index="0" id="290" port="s" />
+			<dock index="1" id="301" port="n" />
+		</line>
+		<line id="340">
+			<dock index="0" id="25" port="s" />
+			<dock index="1" id="302" port="n" />
+		</line>
+		<room id="231" name="Copyright © Garry Francis 2021" subtitle="" x="-280" y="480" w="180" h="40" region="NoRegion" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="None" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw" />
+		</room>
+		<room id="232" name="Legend" subtitle="" x="-280" y="-400" w="80" h="40" region="NoRegion" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="0" cornerTopRight="0" cornerBottomLeft="0" cornerBottomRight="0" borderstyle="None" description="" roomFill="#FFFFFF" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw" />
+		</room>
+		<room id="240" name="Start Room" subtitle="" x="-280" y="-360" w="80" h="40" region="Normal" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="0" cornerTopRight="0" cornerBottomLeft="0" cornerBottomRight="0" borderstyle="Solid" isDark="yes" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw" />
+		</room>
+		<room id="241" name="Normal Room" subtitle="" x="-280" y="-300" w="80" h="40" region="Normal" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="0" cornerTopRight="0" cornerBottomLeft="0" cornerBottomRight="0" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw" />
+		</room>
+		<room id="286" name="Dark Room" subtitle="" x="-280" y="-180" w="80" h="40" region="Dark" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="0" cornerTopRight="0" cornerBottomLeft="0" cornerBottomRight="0" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw" />
+		</room>
+		<line id="1" startText="D" endText="U">
+			<dock index="0" id="208" port="s" />
+			<dock index="1" id="198" port="s" />
+		</line>
+		<line id="3" startText="D" endText="U">
+			<dock index="0" id="24" port="s" />
+			<dock index="1" id="203" port="n" />
+		</line>
+		<room id="6" name="Outside Your Car" subtitle="" x="440" y="-320" w="80" h="40" region="Acid Rain" handDrawn="no" allcornersequal="yes" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="15" cornerTopRight="15" cornerBottomLeft="15" cornerBottomRight="15" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Car|Acid rain|Road|Mansion</objects>
+		</room>
+		<line id="7" style="dashed" startText="OUT" endText="IN">
+			<dock index="0" id="58" port="s" />
+			<dock index="1" id="6" port="n" />
+		</line>
+		<line id="8">
+			<dock index="0" id="6" port="s" />
+			<dock index="1" id="59" port="n" />
+		</line>
+		<room id="9" name="Acid Rain Room" subtitle="" x="-280" y="-240" w="80" h="40" region="Acid Rain" handDrawn="no" allcornersequal="yes" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="15" cornerTopRight="15" cornerBottomLeft="15" cornerBottomRight="15" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw" />
+		</room>
+		<room id="10" name="Behind Your Car" subtitle="" x="560" y="-320" w="80" h="40" region="Acid Rain" handDrawn="no" allcornersequal="yes" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="15" cornerTopRight="15" cornerBottomLeft="15" cornerBottomRight="15" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Car|Acid rain|Road|Boot|Front fence|Iron bars|(Spare tyre)|(Tyre lever)</objects>
+		</room>
+		<line id="14" style="dashed">
+			<dock index="0" id="6" port="e" />
+			<dock index="1" id="10" port="w" />
+		</line>
+		<room id="26" name="In Front of Your Car" subtitle="" x="320" y="-320" w="80" h="40" region="Acid Rain" handDrawn="no" allcornersequal="yes" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="15" cornerTopRight="15" cornerBottomLeft="15" cornerBottomRight="15" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Car|Acid rain|Road|Bonnet|Front fence|Iron bars|(V8 engine)|(Flat battery)</objects>
+		</room>
+		<line id="27" style="dashed">
+			<dock index="0" id="26" port="e" />
+			<dock index="1" id="6" port="w" />
+		</line>
+		<room id="28" name="Front Path" subtitle="" x="440" y="-160" w="80" h="40" region="Acid Rain" handDrawn="no" allcornersequal="yes" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="15" cornerTopRight="15" cornerBottomLeft="15" cornerBottomRight="15" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Acid rain|Front fence|Iron bars|Huge gate|Front path|Mansion|Lawn|Garden</objects>
+		</room>
+		<line id="29" style="dashed">
+			<dock index="0" id="59" port="s" />
+			<dock index="1" id="28" port="n" />
+		</line>
+		<line id="30">
+			<dock index="0" id="28" port="s" />
+			<dock index="1" id="85" port="n" />
+		</line>
+		<room id="31" name="Bend in Hallway" subtitle="" x="680" y="-80" w="80" h="40" region="Dark" handDrawn="no" allcornersequal="yes" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="15" cornerTopRight="15" cornerBottomLeft="15" cornerBottomRight="15" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Bend in hallway|(Hole in floor)</objects>
+		</room>
+		<line id="32">
+			<dock index="0" id="287" port="w" />
+			<dock index="1" id="31" port="e" />
+		</line>
+		<line id="33" style="dashed">
+			<dock index="0" id="31" port="s" />
+			<dock index="1" id="25" port="n" />
+		</line>
+		<line id="2">
+			<dock index="0" id="67" port="s" />
+			<dock index="1" id="77" port="n" />
+		</line>
+		<line id="4" style="dashed">
+			<dock index="0" id="12" port="s" />
+			<dock index="1" id="81" port="n" />
+		</line>
+		<line id="5">
+			<dock index="0" id="79" port="e" />
+			<dock index="1" id="81" port="w" />
+		</line>
+	</map>
+	<settings>
+		<colors>
+			<canvas>White</canvas>
+			<fill>#FFFF99</fill>
+			<border>Black</border>
+			<line>Black</line>
+			<selectedLine>Gold</selectedLine>
+			<hoverLine>DarkOrange</hoverLine>
+			<largeText>Black</largeText>
+			<smallText>Black</smallText>
+			<lineText>Black</lineText>
+			<grid>#F5F5F5</grid>
+		</colors>
+		<regions>
+			<Acid____Rain Name="Acid Rain" TextColor="Black">#80FFFF</Acid____Rain>
+			<Dark Name="Dark" TextColor="Black">Silver</Dark>
+			<Dead Name="Dead" TextColor="White">Red</Dead>
+			<NoRegion Name="NoRegion" TextColor="Black">White</NoRegion>
+			<Normal Name="Normal" TextColor="Black">#FFFF80</Normal>
+		</regions>
+		<fonts>
+			<room size="12">Arial</room>
+			<object size="12">Arial Narrow</object>
+			<line size="12">Arial Narrow</line>
+		</fonts>
+		<grid>
+			<snapTo>yes</snapTo>
+			<visible>yes</visible>
+			<showOrigin>yes</showOrigin>
+			<size>20</size>
+		</grid>
+		<lines>
+			<width>1</width>
+			<handDrawn>no</handDrawn>
+			<arrowSize>8</arrowSize>
+			<textOffset>4</textOffset>
+		</lines>
+		<rooms>
+			<darknessStripeSize>10</darknessStripeSize>
+			<objectListOffset>4</objectListOffset>
+			<connectionStalkLength>20</connectionStalkLength>
+			<preferredDistanceBetweenRooms>40</preferredDistanceBetweenRooms>
+			<defaultRoomName>Cave</defaultRoomName>
+		</rooms>
+		<ui>
+			<handleSize>8</handleSize>
+			<snapToElementSize>8</snapToElementSize>
+		</ui>
+		<keypadNavigation>
+			<creationModifier>control</creationModifier>
+			<unexploredModifier>alt</unexploredModifier>
+		</keypadNavigation>
+	</settings>
+</trizbort>

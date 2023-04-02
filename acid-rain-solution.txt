@@ -1,0 +1,349 @@
+Acid Rain
+By Garry Francis
+For Z-code interpreters
+
+Solution by Garry Francis
+----------------------------------------
+This is a minimal solution. You'll need to EXAMINE lots of things for this solution to make sense. Optional (but significant) commands are shown in parentheses. You can omit these once you know what to do.
+
+(X RAIN) (it leaves little puffs of smoke, hmmm)
+(X CAR) (note car key, ignition, steering wheel, knob, dashboard)
+(TURN KEY) (you've got a flat battery)
+GET KEY
+(X KNOB) (it's the bonnet release)
+PULL KNOB (the bonnet pops open)
+(X DASHBOARD) (it also has a glovebox)
+(X GLOVEBOX) (it's closed)
+OPEN GLOVEBOX (you find a plastic raincoat and a torch)
+GET RAINCOAT
+WEAR IT (to protect you from acid rain)
+GET TORCH (batteries only last 200 moves, so don't turn it on until you need it)
+OUT (acid rain eats you if not wearing raincoat)
+(X MANSION) (it's two storeys high and in darkness)
+E
+(X BOOT) (it's closed)
+(OPEN BOOT) (it's locked)
+UNLOCK BOOT WITH KEY
+OPEN IT (you find a spare tyre & tyre lever)
+(X TYRE)
+(GET IT) (you don't need it)
+(X LEVER)
+GET LEVER
+(W) (you can't leave until you close boot)
+CLOSE BOOT
+W
+S
+(X FENCE) (too high to climb)
+(X BARS) (capped with sharp points)
+(CLIMB FENCE) (no thank you, you'd risk tearing your raincoat)
+(X GATE) (it's chained shut)
+(X CHAIN) (pitted from acid rain)
+BREAK CHAIN WITH LEVER (gate is now unlocked)
+DROP LEVER
+(X GATE) (no more chain, but it's still closed)
+OPEN GATE
+S
+S
+(X DOOR) (it has a doorbell to the side)
+(X DOORBELL) (it's a brass doorbell)
+(KNOCK ON DOOR) (try doorbell)
+(RING DOORBELL) (nothing happens, you'll have to find another way in)
+(X POT) (soil is loose)
+GET PLANT (you catch a glimpse of something in bottom of pot)
+(X POT) (you find a brass key)
+GET BRASS KEY
+UNLOCK DOOR WITH BRASS KEY
+OPEN IT
+(S) (leave porch how you found it)
+PUT BRASS KEY IN POT
+PUT PLANT IN POT
+S
+DROP KEY (we'll come back for it later)
+(E) (need a light source)
+TURN ON TORCH
+E (door slams shut, you spin around and see sign on back of door)
+(X DOOR) (there's a neatly-painted sign)
+(X SIGN) (perhaps you should read it)
+(READ IT) (door can only be unlocked with electronic door opener)
+E
+(X TABLE) (there's a book on it)
+(X BOOK) (it's closed and quite dog-eared)
+(READ IT) (it's 'The Science of Locks')
+OPEN BOOK (note falls out)
+(X IT) (it's opened at chapter on electronic locks)
+READ IT (you now know how to make one using screwdriver, soldering iron & parts)
+(X NOTE) (it's hand-written)
+READ NOTE (it's a parts list for electronic lock, take note of the parts)
+W
+W (you find security card and loose light switch)
+GET CARD
+(X IT) (it's got someone's identity on it)
+(X IDENTITY) (looks like a mad scientist)
+(X STRIP) (has magnetic coating like on swipe cards)
+GET SWITCH
+(X IT) (item #1 on list)
+E
+S
+W (you find a fruit bowl)
+(X BOWL) (it's got a banana on it)
+GET BANANA
+(X IT) (it's got black spots)
+(EAT IT) (too ripe for your taste)
+S (you find a small crystal dish)
+(X DISH) (it's got some caviar on it)
+GET CAVIAR
+(X IT) (yuck)
+(SMELL IT) (it smells off)
+E
+N
+E (small ravenous monster appears and blocks your path)
+GIVE CAVIAR TO MONSTER (this inferior brand killed it, maybe because it was off)
+E (you find a whiskey bottle)
+GET BOTTLE
+(X IT) (it's empty)
+W
+S
+E
+FILL BOTTLE WITH WATER (or FILL BOTTLE FROM TAP)
+(X IT) (it's now full of water)
+(X CUPBOARD) (it's closed)
+OPEN CUPBOARD (you find some Jatz crackers)
+GET CRACKERS
+(EAT THEM) (they're stale)
+W
+S
+(X WOODEN DOOR) (it's closed)
+(OPEN WOODEN DOOR) (it's locked, so we'll deal with it later)
+(X METAL DOOR) (there's a slot next to it)
+(X SLOT) (it takes something credit-card sized)
+PUT CARD IN SLOT (metal door opens)
+E
+D
+W (you find a steel cage and a gorilla)
+(X CAGE) (it contains white key)
+(OPEN CAGE) (gorilla won't let you)
+(GET KEY) (gorilla won't let you)
+(X GORILLA) (he doesn't look friendly)
+(GET GORILLA) (not a good pet)
+(GIVE <anything but banana> TO GORILLA) (he throws it/them back at you)
+GIVE BANANA TO GORILLA (he drops peel on floor and goes off to eat it)
+(X GORILLA) (he's picking bits of banana out of his teeth)
+(X PEEL) (hint not to step on it)
+(OPEN CAGE) (you slip on banana peel)
+(UNDO)
+GET PEEL
+OPEN CAGE
+GET KEY
+(X IT) (it's a white metal key)
+DROP PEEL
+E
+E (you find a coil of wire)
+GET WIRE
+(X IT) (item #5 on list)
+W
+S (you find workbench with soldering iron and electronic components)
+(GET IRON) (it's bolted down, so you'll have to build the door opener here)
+DROP SWITCH (use this room as the collection point for all the components)
+DROP WIRE
+X COMPONENTS (you find a printed circuit board)
+(X BOARD) (item #4 on list)
+(X DOOR) (it's closed)
+(OPEN DOOR) (it's locked, so we'll deal with it later)
+N
+U
+E
+S (you find a long-handled broom)
+GET BROOM
+(X IT) (it's got a long handle)
+(USE IT) (this is why you shouldn't use USE as a verb)
+N
+E
+S
+(X VANITY) (it's closed)
+OPEN VANITY (you find two D-cell batteries)
+GET BATTERIES
+REPLACE BATTERIES (you now have unlimited light)
+N
+N
+(X WINDOW) (it's closed)
+OPEN WINDOW
+N (you find a red key)
+(GET RED KEY) (you can't reach it)
+GET RED KEY WITH BROOM (you drop the broom in the process)
+S
+S
+W
+W
+W
+(X WOODEN DOOR) (it's closed)
+(OPEN IT) (it's locked)
+UNLOCK WOODEN DOOR WITH RED KEY
+OPEN IT
+DROP RED KEY
+S
+U
+N
+N
+N
+N (you find a macaw)
+(GET FRUIT) (macaw won't let you, note that it talks)
+(TALK TO MACAW) (Molly wants a cracker)
+GIVE CRACKERS TO MACAW (you've made a friend)
+GET FRUIT
+(X IT) (exotic-looking purple fruit)
+(EAT IT) (do you really want to risk it?)
+S (Molly follows you)
+(X DOOR) (it's closed)
+(OPEN IT) (it's locked)
+UNLOCK DOOR WITH WHITE KEY
+OPEN IT
+DROP WHITE KEY
+W (you find a transducer)
+GET TRANSDUCER
+(X IT) (item #6 on list)
+E
+E (you find a rack with some coats)
+(X COATS) (badly moth-eaten)
+(GET COATS) (can't take them)
+MOVE COATS (exposes opening at back of closet)
+S (you find a remote control unit on the lounge chair)
+GET UNIT
+(X IT) (item #2 on list)
+N
+W
+S
+S
+W
+(X VANITY) (it's closed)
+OPEN VANITY (you find a pink jiffy box)
+GET BOX
+(X IT) (item #7 on list)
+(X MIRROR) (there's a message on it)
+(READ IT) ('RUTH WAS HERE' is a tribute to one of the playtesters daughters)
+(N) (you find some toilet paper)
+(X PAPER) (something's written on it)
+(READ IT) (LED under sheets in closet)
+(S)
+E
+E (you find UV glasses on the coffee table, we'll return for them later)
+E
+(X PLAIN DOOR) (it's closed)
+OPEN PLAIN DOOR
+N (you find lots of photographic equipment)
+(X FILM) (you wonder what's on it)
+(DEVELOP FILM) (you can only do that under a red light)
+TURN ON LAMP (room is bathed in red glow)
+TURN OFF TORCH
+DEVELOP FILM (you now have some negatives on bench)
+(X NEGATIVES) (photos of animals, although one has printing on it)
+(READ THEM) (too small to read)
+GET NEGATIVES
+PUT THEM ON ENLARGER
+READ NEGATIVES ("Code is alphabet reversed")
+TURN ON TORCH
+S
+(X LOUVRED DOOR) (it's closed)
+OPEN LOUVRED DOOR
+S (you find some satin sheets, remember the note on the toilet paper?)
+(X SHEETS) (silky smooth, but with moth holes)
+LOOK UNDER SHEETS (or PUSH/PULL/MOVE/TAKE then DROP, you find 3V LED)
+GET LED (item #8 on list)
+(X IT)
+N
+E
+(N) (goat won't let you pass)
+(X GOAT) (doesn't look friendly, maybe it's hungry)
+(FEED GOAT WITH <anything but fruit>) (he doesn't want it)
+FEED GOAT WITH FRUIT (he falls asleep, you can now pass)
+N
+(X WINDOW) (it's closed)
+OPEN WINDOW
+N
+(GET KEY) (you can't touch it due to acid)
+POUR WATER ON SILVER KEY (water washes off acid)
+DROP BOTTLE
+GET SILVER KEY
+(X IT) (it's now clean)
+S
+S
+W
+W
+GET GLASSES
+W
+S
+D
+N
+E
+E
+N (floor caved in, can't return that way)
+E (you find a bed)
+(X BED) (there's a lump under the sheets)
+(MOVE SHEETS) (it's a dead body)
+(X BODY) (it's the partially decomposed body of the mad scientist)
+(X KEYPAD) (4x4 array of scrambled letters)
+(READ MESSAGE) (use advice on developed negatives to decode the gobbledegook)
+WEAR GLASSES
+READ MESSAGE (code is VZX)
+REMOVE GLASSES
+DROP THEM
+INPUT VZX ON KEYPAD (panel slide open revealing hidden room to north)
+N (you find a journal and laser power module)
+(X JOURNAL) (mad scientist's journal, you should read it)
+(READ IT) ('On the Electronic COntrol of Creatures, Great and Small')
+(OPEN IT)
+(READ IT) (he was experimenting on turning creatures into 'robots')
+GET MODULE
+(X IT) (item #3 on list)
+S
+(X WINDOW) (it's closed)
+OPEN WINDOW
+S
+(S) (you'll have to jump)
+JUMP
+S
+S
+W
+W
+D
+S
+UNLOCK DOOR WITH SILVER KEY
+OPEN IT
+DROP KEY
+E (you find some tools)
+X TOOLS (you find a screwdriver, what else might be there?)
+G (you find a car battery)
+GET SCREWDRIVER
+GET BATTERY
+(X IT) (it's a perfect replacement for your flat car battery)
+W
+MAKE DOOR OPENER (tada!)
+GET IT
+(X IT) (it's got a button on it)
+(X BUTTON) (it's the button off the light switch)
+(PRESS IT) (nothing happens)
+N
+U
+W
+N
+N
+N
+PRESS BUTTON (the door's now unlocked)
+OPEN DOOR
+GET CAR KEY (don't forget it)
+N (Molly flies off)
+N
+N
+N
+W
+(X CAR) (it has a bonnet)
+(X BONNET) (it's closed, but we unlocked it at the beginning)
+OPEN BONNET (you find an engine and a flat battery)
+REPLACE BATTERY (or PUT BATTERY IN BONNET or CAR or ENGINE)
+(E) (need to close bonnet first)
+CLOSE BONNET
+E
+IN
+PUT KEY IN IGNITION
+TURN KEY (now drive away)
+DRIVE CAR (oh, oh, what's that in the back seat?)
+***THE END***
