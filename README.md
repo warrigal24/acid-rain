@@ -8,7 +8,7 @@ You were driving home from the Second National Conference on Acid Rain when you 
 
 When you wake up, you find that it's dark and dismal outside and raining heavily. You'd better get a move on and get the car under cover. Despite all the protective coating you've applied, acid rain can still make a mess of your duco.
 
-This is a traditional text adventure that was written for [ParserComp 2021](https://itch.io/jam/parsercomp-2021), 30 April 2021 to 30 June 2021. The game is hosted at [Acid Rain](https://warrigal.itch.io/acid-rain).
+This is a traditional text adventure that was written for [ParserComp 2021](https://itch.io/jam/parsercomp-2021), 30 April 2021 to 30 June 2021.
 
 ## Release notes
 
